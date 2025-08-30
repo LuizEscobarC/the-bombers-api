@@ -1,5 +1,6 @@
 {
   "name": "discord-bot-game-blocker",
+  "type": "module",
   "version": "1.0.0",
   "description": "Bot para impedir usuários jogando jogos específicos de entrar em certos canais",
   "main": "the-bombers-bot.js",
