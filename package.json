@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-game-blocker",
+  "version": "1.0.0",
+  "description": "Bot para impedir usuários jogando jogos específicos de entrar em certos canais",
+  "main": "the-bombers-bot.js",
+  "scripts": {
+    "start": "node the-bombers-bot.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^5.11.0"
+  }
+}
